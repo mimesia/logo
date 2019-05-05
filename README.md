@@ -2,6 +2,8 @@
 
 ![💙](https://mimesia.net/logo.svg)
 
+The Mimesia logo consists of the Mimesia symbol in Mimesia blue (see [Mimesia Blue](https://mimesia.blue/)).
+
 ## Usage
 
 You can simply link to the following file:
@@ -10,7 +12,7 @@ You can simply link to the following file:
 https://mimesia.net/logo.svg
 ```
 
-For example, as an image:
+For example, as an image IN HTML:
 
 ```HTML
 <img alt="💙" src="https://mimesia.net/logo.svg">
