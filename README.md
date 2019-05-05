@@ -12,7 +12,7 @@ You can simply link to the following file:
 https://mimesia.net/logo.svg
 ```
 
-For example, as an image IN HTML:
+For example, as an image in HTML:
 
 ```HTML
 <img alt="💙" src="https://mimesia.net/logo.svg">
