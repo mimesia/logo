@@ -18,6 +18,12 @@ For example, as an image in HTML:
 <img alt="💙" src="https://mimesia.net/logo.svg">
 ```
 
+Or as a background image in CSS:
+
+```CSS
+background: url('https://mimesia.net/logo.svg');
+```
+
 ## Make Changes
 
 ```Shell
