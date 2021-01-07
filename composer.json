@@ -1,0 +1,13 @@
+{
+  "name": "mimesia/logo",
+  "type": "library",
+  "description": "Mimesia logo.",
+  "keywords": ["twig"],
+  "homepage": "https://mimesia.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ACJ"
+    }
+  ]
+}
